@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack
 
-## Back-End
+## Front-End
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=plastic&logo=apache-maven&logoColor=white) 
